@@ -47,7 +47,7 @@ Learnt User Accesibilty, and how to make good use of Semantic Tags..
 
 ## Author
 
-- Website - [Zion](https://gi)
+- Website - [Zion](https://github.com/heisayon)
 - Frontend Mentor - [@heisayon](https://www.frontendmentor.io/profile/heisayon)
 - Twitter - [@heisayon](https://www.twitter.com/heisayon)
 
